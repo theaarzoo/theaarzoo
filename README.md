@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://raw.githubusercontent.com/theaarzoo/theaarzoo/master/img/hello.gif" alt="hello" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/theaarzoo/theaarzoo/master/img/hello.gif" alt="hello"  width="200" height="100"/> </p>
 
 # Hi 👋, I'm Mohammd Aarzoo Alam
 
